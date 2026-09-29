@@ -14,41 +14,36 @@ Većina glavnih sistema, infrastrukture i osnovne optimizacije je završena. Tre
 
 > **70% completed — 30% remaining**
 
-### 🛡️ MaltaAC — Anti-Cheat
 
-**🟢 Testing**
+### 🛡️ MaltaAC — Anti-Cheat
 
 MaltaAC je jedan od sistema u koji smo uložili najviše vremena. Razvijali smo ga više od mesec dana kroz konstantno istraživanje, testiranje i unapređivanje.
 
 Trenutno radimo na finalnom testiranju i optimizaciji kako bismo dobili što bolju zaštitu uz minimalan broj false-positive situacija.
 
-### ⚙️ Custom Systems
 
-**🟡 Development**
+### ⚙️ Custom Systems
 
 Veliki deo MaltaSMP-a čine potpuno custom sistemi koje smo razvili posebno za naš server.
 
 Većina njih trenutno ostaje **secret** — neke stvari želimo da otkrijete tek kada uđete na server.
 
-### 🚀 Optimization
 
-**🟢 Optimization**
+### 🚀 Optimization
 
 Radimo na chunk loadingu, TPS-u, network performance-u, stabilnosti sistema i FPS optimizaciji.
 
 MaltaSMP trenutno koristi **5 podservera — 3 u Frankfurtu, 1 u Parizu i 1 u Srbiji**, kako bismo omogućili što stabilniju konekciju igračima.
 
-### ⚔️ PvP Systems
 
-**🟡 Development**
+### ⚔️ PvP Systems
 
 PvP će biti jedan od glavnih delova MaltaSMP-a.
 
 Trenutno razvijamo **Team Wars, KOTH, PvP Zone** i još dosta custom sistema koji za sada ostaju secret.
 
-### 🧪 Testing & Finalization
 
-**🟠 Upcoming**
+### 🧪 Testing & Finalization
 
 Pre launch-a sledi detaljno testiranje Anti-Cheata, PvP sistema, custom sistema, performansi, security-ja i potencijalnih bugova i exploita.
 
